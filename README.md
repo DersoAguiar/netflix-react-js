@@ -23,12 +23,15 @@
 
 ## Walkthrough
 - Nesse projeto, o usuario logado pode salvar seus filmes favoritos
+
 ![preview](./.github/favorito-filme.png)
 
 - Estes serão mostrados na página Account 
+
 ![preview](./.github/account.png)
 
 - Na página Account o usuário terá a opção de remover filmes favotirados
+
 ![preview](./.github/remover-filme.png)
 
 - A opção de salvar filmes, só pode ser utilizada se o usuário estiver logado!
